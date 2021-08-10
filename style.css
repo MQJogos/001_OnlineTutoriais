@@ -71,3 +71,9 @@ section
   justify-items: start;
   align-items:center;
 }
+.center
+{
+  display: grid;
+  justify-items: start;
+  align-items: center; 
+}
