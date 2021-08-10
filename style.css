@@ -89,3 +89,9 @@ section
   justify-items: start;
   align-items: end;
 }
+bottom-center
+{
+  display: ;
+  justify-items: grid;
+  align-items: center;
+}
