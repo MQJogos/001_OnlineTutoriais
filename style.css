@@ -89,9 +89,16 @@ section
   justify-items: start;
   align-items: end;
 }
-bottom-center
+
+.bottom-center
 {
-  display: ;
-  justify-items: grid;
-  align-items: center;
+  display: grid;
+  justify-items: center;
+  align-items: end;
+}
+.bottom-right
+{
+  display: grid;
+  justify-items: end;
+  align-items: end;
 }
