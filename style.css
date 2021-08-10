@@ -51,5 +51,23 @@ section
 {
   display: grid;
   justify-items: start;
-  align-items:stretch;
+  align-items:start;
+}
+.top-center
+{
+  display: grid;
+  justify-items: center;
+  align-items:start;
+}
+.top-right
+{
+  display: grid;
+  justify-items: end;
+  align-items:start;
+}
+.center-left
+{
+  display: grid;
+  justify-items: start;
+  align-items:center;
 }
