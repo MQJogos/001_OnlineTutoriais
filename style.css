@@ -74,6 +74,12 @@ section
 .center
 {
   display: grid;
-  justify-items: start;
+  justify-items: center;
   align-items: center; 
+}
+.center-right 
+{
+  display: grid;
+  justify-items: end;
+  align-items: center;
 }
